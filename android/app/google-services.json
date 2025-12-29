@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "585904970458",
+    "firebase_url": "https://app-fluter-4d733-default-rtdb.firebaseio.com",
+    "project_id": "app-fluter-4d733",
+    "storage_bucket": "app-fluter-4d733.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585904970458:android:f20015839581b5aa8123e3",
+        "android_client_info": {
+          "package_name": "com.example.act_autonoma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnGqUMv9mxr6GGlHFQkUtb0K48Nk8Bpw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585904970458:android:66351a0f7c3e63038123e3",
+        "android_client_info": {
+          "package_name": "com.example.app_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnGqUMv9mxr6GGlHFQkUtb0K48Nk8Bpw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
